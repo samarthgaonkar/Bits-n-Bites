@@ -1,0 +1,39 @@
+[1011/152242.336:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152242.349:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152242.350:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152242.578:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152242.586:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[1011/152242.596:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152242.598:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152257.221:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152257.230:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152257.231:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152303.199:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152303.208:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152303.209:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152314.530:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152314.540:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152314.541:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152325.765:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152325.773:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152325.775:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152336.024:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152336.032:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152336.033:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152341.021:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152341.029:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152341.031:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152528.189:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152528.197:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152528.198:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152645.386:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152645.390:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[1011/152645.393:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152645.394:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152711.616:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152711.617:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[1011/152711.627:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152711.629:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152743.873:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[1011/152743.881:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/152743.882:ERROR:crash_report_database_win.cc(591)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory

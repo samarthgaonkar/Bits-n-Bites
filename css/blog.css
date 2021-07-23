@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.dropcontent{
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.9);
+}
+
+.dropcontent a{
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    padding: 12px 16px;
+}
+
+.dropcontent a:hover{
+	background-color: #f1f1f1;
+}
+
+.drop:hover .dropcontent{
+    display: block;
+    z-index: 1;
+}
+
+.drop:hover{
+    background-color: gray;
+    border-radius: 5px;
+    
+    
+}
+
+nav a:hover{
+    background-color: gray;
+    border-radius: 5px;
+    
+    
+}
+
+.bloghead{
+    font-size: x-large;
+    text-decoration: underline;
+}
