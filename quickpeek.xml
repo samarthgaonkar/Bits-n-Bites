@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="quickpeek.xsl"?>
+
+<menu>
+
+    <food id="1">
+        <name>Black Forest Cake</name>
+        <price>Rs.375</price>
+        <!-- <description>Taste the magic of mouth-wateringly soft chocolate served with sweetness of cherry and cool fresh cream. All the occasions celebrated with this miraculous merrymaker would always be remembered as Black Forest frisky moments.</description> -->
+        <calories>650</calories>
+    </food>
+
+    <food id="2">
+        <name>Truffle Cake</name>
+        <price>Rs.340</price>
+        <!-- <description>Enjoy delicious full chocoloate Truffle cake.</description> -->
+        <calories>900</calories>
+    </food>
+
+    <food id="3">
+        <name>PineApple Cake</name>
+        <price>Rs.280</price>
+        <!-- <description>Enjoy delicious Pineapple cake.</description> -->
+        <calories>900</calories>
+    </food>
+
+    <food id="4">
+        <name>Strawberry Cake</name>
+        <price>Rs.300</price>
+        <!-- <description>Enjoy delicious Strawberry cake.</description> -->
+        <calories>600</calories>
+    </food>
+
+    <food id="5">
+        <name>Red Velvet Cake</name>
+        <price>Rs.300</price>
+        <!-- <description>Enjoy delicious Red Velvet cake. Base: Red Velvet Sponge Filling and Topping: Cream Cheese  Garnish: White Chocolate</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="6">
+        <name>Black Forest Pastry</name>
+        <price>Rs.60</price>
+        <!-- <description>aste the magic of mouth-wateringly soft chocolate served with sweetness of cherry and cool fresh cream. All the occasions celebrated with this miraculous merrymaker would always be remembered as Black Forest frisky moments.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="7">
+        <name>Almond Delite Pastry</name>
+        <price>Rs.300</price>
+        <!-- <description>Enjoy delicious Almond Delite pastries. BASE:  Chocolate base, Vanilla and Brownie Sponge LAYER :  Tiramisu mixed with Rich Whip Cream and Roasted Almond TOPPING :  Truffle, Roasted Almond and Chocolate Garnish</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="8">
+        <name>PineApple pastry</name>
+        <price>Rs.60</price>
+        <!-- <description>Enjoy delicious Pineapple pastry with rich natural flavour.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="9">
+        <name>Strawberry Pastry</name>
+        <price>Rs.60</price>
+        <!-- <description>Enjoy delicious Strawberry pastries.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="10">
+        <name>Red Velvet Pastry</name>
+        <price>Rs.80</price>
+        <!-- <description>Enjoy delicious Red Velvet pastries. Base: Red Velvet Sponge  Filling and Topping: Cream Cheese  Garnish: White Chocolate</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="11">
+        <name>Fresh Fruit Pastry</name>
+        <price>Rs.80</price>
+        <!-- <description>Fruits are good for health, don't you agree? If yes then try out these slices immersed in white truffle and fresh cream. Your love for fruits will surely turn into a passion.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="12">
+        <name>Nutella Pastry</name>
+        <price>Rs.80</price>
+        <!-- <description>Enjoy delicious Nutella Pastries. BASE: Chocolate Sponge LAYER: Hazel nut paste and Mousse cream TOPPING:  Milk Truffle, Ferrero rocher chocolate</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="13">
+        <name>Truffle Pastry</name>
+        <price>Rs.80</price>
+        <!-- <description>Enjoy delicious full chocoloate Truffle Pastries.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="14">
+        <name>Austrian Jam cookie</name>
+        <price>Rs.475</price>
+        <!-- <description>Make birthday celebrations sweeter, happier with this Personalized Box of 12 Assorted Cookies made in flavours of Choco Almond, White Chocolate and Peanut Butter that tingle the taste buds. Personalize with the birthday boy's/girl's name to make it a sweet token of best wishes for the occasion.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="15">
+        <name>Gruyere Cheese cookie</name>
+        <price>Rs.345</price>
+        <!-- <description>Enjoy delicious Gruyere cheese biscuits.Gruyere is a classic and complex alpine cheese, which combines robust grassy aromas with a deep nutty flavour.Made with authentic dutch gouda cheese aoc</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="16">
+        <name>Choco Chunk cookie</name>
+        <price>Rs.289</price>
+        <!-- <description>Enjoy delicious and tasty choco-chunk cookie.Take these Choco-Chip Cookies for your near and dear ones to make them enjoy their snacking time. They are made from high-quality ingredients and will surely satisfy your taste buds. They will give you a new experience of your tea or coffee time.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="17">
+        <name>Macaron cookie</name>
+        <price>Rs.375</price>
+        <!-- <description>Enjoy delicious Macaron Cookie.Delicate French-style macarons with a crunchy exterior and soft smooth filling. This assorted box of 6 macarons comes in a host of flavors including coconut, caramelized almond and hazelnut praline, chocolate, mango, passionfruit, pistachio, rose, salted caramel, strawberry, and vanilla.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="18">
+        <name>Keto chocolate dipped cookie</name>
+        <price>Rs.410</price>
+        <!-- <description>Enjoy delicious KETO Cookie. EACH CHOCOLATE KETO COOKIE(6g) HAS THE PERFECT MACROS FOR AN IDEAL KETO DIET.<br>INDIANISED KETO PRODUCTS.100% VEGETARIAN.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="19">
+        <name>White Chocolate stuffed cookie</name>
+        <price>Rs.289</price>
+        <!-- <description>These superb stuffed cookies are everything and then some: ultra rich and deeply chocolate with a surprise nugget of warm white chocolate hidden inside.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="20">
+        <name>Oatmeal Cranberry cookie</name>
+        <price>Rs.340</price>
+        <!-- <description>Tart cranberries add a sweet touch to these special cookies. With warm cinnamon, vanilla, and wholesome oats, these good-for-you treats will make you nostalgic for cookies fresh-baked from the oven. Filled with fiber and antioxidants, they’re a delicious way to get a healthy boost throughout your day!</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="21">
+        <name>Rainbow over bedrock cookie</name>
+        <price>Rs.294</price>
+        <!-- <description>Enjoy delicious cookie. Signature dough stuffed with white chocolate chips and milk chocolate chips, and topped with rainbow sprinkles and drizzled with frosting.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="22">
+        <name>Strawberry Cheese Cake</name>
+        <price>Rs.600</price>
+        <!-- <description>Enjoy delicious Strawberry Cheese cake. Base : Vanilla  and Red Velvet sponge Filling:Cheese Cream, Rich Cream and  Fresh Strawberry  TOPPING:  Fresh Strawberry and Chocolate Garnish</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="23">
+        <name>Kiwi Cake</name>
+        <price>Rs.800</price>
+        <!-- <description>Enjoy delicious Kiwi cake. Base:Pure vanilla cream cake Filling :Rich Caramel TOPPING:Fresh Kiwis with Pomogranate Garnish</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="24">
+        <name>Custard Apple cake</name>
+        <price>Rs.700</price>
+        <!-- <description>Enjoy delicious Custord Apple cake.</description> -->
+        <calories>950</calories>
+    </food>
+    <food id="25">
+        <name>Litchi Cake</name>
+        <price>Rs.600</price>
+        <!-- <description>Enjoy delicious Litchi cake.</description> -->
+        <calories>950</calories>
+    </food>
+
+</menu>
